@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jemma_coder_hooks/static/css/main.f349675e.css",
+    "main.js": "/jemma_coder_hooks/static/js/main.a6e50242.js",
+    "index.html": "/jemma_coder_hooks/index.html",
+    "main.f349675e.css.map": "/jemma_coder_hooks/static/css/main.f349675e.css.map",
+    "main.a6e50242.js.map": "/jemma_coder_hooks/static/js/main.a6e50242.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f349675e.css",
+    "static/js/main.a6e50242.js"
+  ]
+}
